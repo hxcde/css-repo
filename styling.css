@@ -9,6 +9,12 @@
 .animate-zoom-9 {animation:animatezoom 1.9s}@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
 .animate-top{position:relative;animation:animatetop 0.4s}@keyframes animatetop{from{top:-300px;opacity:0} to{top:0;opacity:1}}
 .animate-bottom{position:relative;animation:animatebottom 0.4s}@keyframes animatebottom{from{bottom:-300px;opacity:0} to{bottom:0;opacity:1}}
+.animate-top-1{position:relative;animation:animatetop 0.3s}@keyframes animatetop{from{top:-300px;opacity:0} to{top:0;opacity:1}}
+.animate-top-2{position:relative;animation:animatetop 0.5s}@keyframes animatetop{from{top:-300px;opacity:0} to{top:0;opacity:1}}
+.animate-top-3{position:relative;animation:animatetop 0.7s}@keyframes animatetop{from{top:-300px;opacity:0} to{top:0;opacity:1}}
+.animate-top-4{position:relative;animation:animatetop 0.9s}@keyframes animatetop{from{top:-300px;opacity:0} to{top:0;opacity:1}}
+.animate-top-5{position:relative;animation:animatetop 1.1}@keyframes animatetop{from{top:-300px;opacity:0} to{top:0;opacity:1}}
+
 
 .zoom-box { 
  	-webkit-transition: -webkit-transform 0.2s;
