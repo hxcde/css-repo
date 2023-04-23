@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 
-animate-zoom-1 {animation:animatezoom 0.3s}@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
+.animate-zoom-1 {animation:animatezoom 0.3s}@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
 .animate-zoom-2 {animation:animatezoom 0.5s}@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
 .animate-zoom-3 {animation:animatezoom 0.7s}@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
 .animate-zoom-4 {animation:animatezoom 0.9s}@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
