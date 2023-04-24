@@ -1,4 +1,5 @@
 /* Animate Zoom */
+
 .animate-zoom-1 {animation:animatezoom 0.3s}@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
 .animate-zoom-2 {animation:animatezoom 0.5s}@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
 .animate-zoom-3 {animation:animatezoom 0.7s}@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
@@ -10,6 +11,7 @@
 .animate-zoom-9 {animation:animatezoom 1.9s}@keyframes animatezoom{from{transform:scale(0)} to{transform:scale(1)}}
 
 /* Animate Top */
+
 .animate-top{position:relative;animation:animatetop 0.4s}@keyframes animatetop{from{top:-300px;opacity:0} to{top:0;opacity:1}}
 .animate-top-1{position:relative;animation:animatetop 0.3s}@keyframes animatetop{from{top:-300px;opacity:0} to{top:0;opacity:1}}
 .animate-top-2{position:relative;animation:animatetop 0.5s}@keyframes animatetop{from{top:-300px;opacity:0} to{top:0;opacity:1}}
@@ -18,6 +20,7 @@
 .animate-top-5{position:relative;animation:animatetop 1.1}@keyframes animatetop{from{top:-300px;opacity:0} to{top:0;opacity:1}}
 
 /* Animate Bottom */
+
 .animate-bottom-1{position:relative;animation:animatebottom 0.3s}@keyframes animatebottom{from{bottom:-300px;opacity:0} to{bottom:0;opacity:1}}
 .animate-bottom-2{position:relative;animation:animatebottom 0.5s}@keyframes animatebottom{from{bottom:-300px;opacity:0} to{bottom:0;opacity:1}}
 .animate-bottom-3{position:relative;animation:animatebottom 0.7s}@keyframes animatebottom{from{bottom:-300px;opacity:0} to{bottom:0;opacity:1}}
@@ -26,6 +29,7 @@
 .animate-bottom-6{position:relative;animation:animatebottom 1.3s}@keyframes animatebottom{from{bottom:-300px;opacity:0} to{bottom:0;opacity:1}}
 
 /* Zoom Box */
+
 .zoom-box { 
  	-webkit-transition: -webkit-transform 0.2s;
 	transition: -webkit-transform 0.2s;
