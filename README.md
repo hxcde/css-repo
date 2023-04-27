@@ -5,6 +5,7 @@
 @import url("styling.css");
 ```
 3. Add the animations to your `[filename].html`
+4. Have fun!
 
 ## Comtent:
 - Various animations
