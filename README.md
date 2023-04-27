@@ -4,6 +4,7 @@
 ```bash
 @import url("styling.css");
 ```
+3. Add the animations to your [filename].html
 
 ## Comtent:
 - Some animations
