@@ -7,7 +7,7 @@
 3. Add the animations to your `[filename].html`
 
 ## Comtent:
-- Some animations
+- Various animations
 - Animate zoom in (1-9)
 - Animate from Top (1-9)
 - Animate from bottom (1-9)
