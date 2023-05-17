@@ -59,5 +59,12 @@
           transform: scale(1.05);
 }
 
+/* Hide on phone */
+
+@media (max-width: 576px) {
+ .element {
+   display: none;
+  }
+}
 
 
