@@ -68,3 +68,12 @@
 }
 
 
+/* Gradient Text */
+
+.text-gradient {
+  background: linear-gradient(to right, rgba(22,91,189,1) 0%, rgba(144,30,254,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}
+
