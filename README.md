@@ -2,7 +2,7 @@
 1. Download the file
 2. Add this to your `[filename].css`
 ```bash
-@import url("styling.css");
+@import url("custom.css");
 ```
 3. Add the animations to your `[filename].html`
 4. Have fun!
